@@ -8,4 +8,6 @@ void main() {
   var userName2Monay = 15;
 
   userName2Monay -= 10;
+
+  const String bankNameSpecial = ""
 }
